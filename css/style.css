@@ -1,5 +1,5 @@
 body {
-	background: #FAEBD7 url('../images/vintage-concrete.png');
+	background: #B3AEE8 url('../images/vintage-concrete.png');
 	color: #333;
 }
 
@@ -42,7 +42,7 @@ nav a:hover { color: white; }
 
 /* Main styles */
 main { 
-	background-color: #fff;
+	background-color: #BFECFF;
 	display: grid;
 	grid-template-columns: 60% 40%;
 }
@@ -69,4 +69,8 @@ footer {
 	color: white;
 	text-align: center;
  }
- footer p { padding: 20px; }
+ footer p { padding: 10px; }
+ h1 {font-family: 'DM Serif Text', serif;}
+ h1{font-size:20px; height:50px;}
+
+
